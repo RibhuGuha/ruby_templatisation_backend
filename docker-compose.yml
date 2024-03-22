@@ -4,7 +4,7 @@ services:
   db:
     image: postgres:14.6
     restart: unless-stopped
-    container_name: postgresql_backend_ExclusiveAccess_108
+    container_name: postgresql_backend_ExclusiveAccess_71
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=password

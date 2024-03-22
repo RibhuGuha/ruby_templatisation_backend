@@ -85,7 +85,7 @@
 
     <modules>
         <module>jpa</module>
-        <module>backend_ExclusiveAccess_108</module>
+        <module>backend_ExclusiveAccess_71</module>
     </modules>
     <build>
         <pluginManagement>
